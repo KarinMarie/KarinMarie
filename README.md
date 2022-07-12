@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @KarinMarie
 - 👀 Student of object-oriented programming and web development
+- 📫 Languages I speak: English (B1), Français (B2), Português
 
 ![Windows XP loading screen GIF](https://github.com/KarinMarie/KarinMarie/blob/main/windows-xp.gif?raw=true)
 
