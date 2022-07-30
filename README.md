@@ -3,6 +3,7 @@
 - 📫 Languages I speak: English (B1), Français (B1), Português
 - ✨ [Curriculum](https://karinmarie.github.io/CV/)
 - 📣 [Contact](https://www.linkedin.com/in/karinmarie/)
+- 🧨 [HackerRank](https://www.hackerrank.com/karinmarie)
 
 ![Windows XP loading screen GIF](https://github.com/KarinMarie/KarinMarie/blob/main/windows-xp.gif?raw=true)
 
